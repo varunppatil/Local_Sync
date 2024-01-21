@@ -17,7 +17,8 @@ public class Vdo27_ForEachAndArray {
 		for (int i = marks.length-1;i>=0;i--) {
 			System.out.println(marks[i]);
 			
-		}
+		}    
+		
 	 
 	 try {
 		 marks[5]=89;

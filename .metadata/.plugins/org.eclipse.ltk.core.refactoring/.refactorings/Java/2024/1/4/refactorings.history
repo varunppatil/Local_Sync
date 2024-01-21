@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;java_100_codes.Code4_&apos; to &apos;Code4_ScannerForInput&apos;&#x0D;&#x0A;- Original project: &apos;Java&apos;&#x0D;&#x0A;- Original element: &apos;java_100_codes.Code4_&apos;&#x0D;&#x0A;- Renamed element: &apos;java_100_codes.Code4_ScannerForInput&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Code4_&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;java_100_codes{Code4_.java[Code4_" matchStrategy="1" name="Code4_ScannerForInput" qualified="false" references="true" similarDeclarations="false" stamp="1705839970794" textual="false" version="1.0"/>
+</session>

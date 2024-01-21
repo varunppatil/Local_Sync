@@ -1,0 +1,10 @@
+package java_100_codes;
+
+public class Code7_SwapNoWithout3rdVariable {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
